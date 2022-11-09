@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Amy",
+        "type": "character",
+        "rarity": "epic",
+        "show": "futurama",
+        "cardImage": ""
+    },
+    {
+        "title": "Bender",
+        "type": "character",
+        "rarity": "legendary",
+        "show": "futurama",
+        "cardImage": ""
+    },
+    {
+        "title": "Bill",
+        "type": "character",
+        "rarity": "rare",
+        "show": "king of the hill",
+        "cardImage": ""
+    },
+    {
+        "title": "Bob",
+        "type": "character",
+        "rarity": "epic",
+        "show": "bob's burgers",
+        "cardImage": ""
+    },
+    {
+        "title": "Bobby",
+        "type": "character",
+        "rarity": "legendary",
+        "show": "king of the hill",
+        "cardImage": ""
+    },
+    {
+        "title": "Boomhauer",
+        "type": "character",
+        "rarity": "epic",
+        "show": "king of the hill",
+        "cardImage": ""
+    },
+    {
+        "title": "Brian",
+        "type": "character",
+        "rarity": "epic",
+        "show": "family guy",
+        "cardImage": ""
+    },
+    {
+        "title": "Bullock",
+        "type": "character",
+        "rarity": "common",
+        "show": "american dad!",
+        "cardImage": ""
+    }
+]
