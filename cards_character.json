@@ -21,11 +21,25 @@
         "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Bill.webp"
     },
     {
+        "title": "Bill Dauterive",
+        "type": "character",
+        "rarity": "legendary",
+        "show": "king of the hill",
+        "cardImage": ""
+    },
+    {
         "title": "Bob",
         "type": "character",
         "rarity": "epic",
         "show": "bob's burgers",
         "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Bob/.webp"
+    },
+    {
+        "title": "Bob",
+        "type": "character",
+        "rarity": "legendary",
+        "show": "bob's burgers",
+        "cardImage": ""
     },
     {
         "title": "Bobby",
@@ -42,6 +56,13 @@
         "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Boomhauer.webp"
     },
     {
+        "title": "Boomhauer",
+        "type": "character",
+        "rarity": "legendary",
+        "show": "king of the hill",
+        "cardImage": ""
+    },
+    {
         "title": "Brian",
         "type": "character",
         "rarity": "epic",
@@ -49,11 +70,25 @@
         "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Brian.webp"
     },
     {
+        "title": "Brian",
+        "type": "character",
+        "rarity": "legendary",
+        "show": "family guy",
+        "cardImage": ""
+    },
+    {
         "title": "Bullock",
         "type": "character",
         "rarity": "common",
         "show": "american dad!",
         "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Bullock.webp"
+    },
+    {
+        "title": "Bullock",
+        "type": "character",
+        "rarity": "legendary",
+        "show": "american dad!",
+        "cardImage": ""
     },
     {
         "title": "Chris",
@@ -77,6 +112,13 @@
         "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Dale.webp"
     },
     {
+        "title": "Dale",
+        "type": "character",
+        "rarity": "legendary",
+        "show": "king of the hill",
+        "cardImage": ""
+    },
+    {
         "title": "Dr. Amy Wong",
         "type": "character",
         "rarity": "legendary",
@@ -91,11 +133,32 @@
         "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Dr-Zoidberg.webp"
     },
     {
+        "title": "Dr. Zoidberg",
+        "type": "character",
+        "rarity": "legendary",
+        "show": "futurama",
+        "cardImage": ""
+    },
+    {
+        "title": "Eugene Belcher",
+        "type": "character",
+        "rarity": "legendary",
+        "show": "bob's burgers",
+        "cardImage": ""
+    },
+    {
         "title": "Francine",
         "type": "character",
         "rarity": "epic",
         "show": "american dad!",
         "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Francine.webp"
+    },
+    {
+        "title": "Francine Smith",
+        "type": "character",
+        "rarity": "legendary",
+        "show": "american dad!",
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/"
     },
     {
         "title": "Fry",
