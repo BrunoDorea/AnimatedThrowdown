@@ -4,55 +4,69 @@
         "type": "character",
         "rarity": "epic",
         "show": "futurama",
-        "cardImage": ""
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Amy.webp"
     },
     {
         "title": "Bender",
         "type": "character",
         "rarity": "legendary",
         "show": "futurama",
-        "cardImage": ""
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Bender.webp"
     },
     {
         "title": "Bill",
         "type": "character",
         "rarity": "rare",
         "show": "king of the hill",
-        "cardImage": ""
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Bill.webp"
     },
     {
         "title": "Bob",
         "type": "character",
         "rarity": "epic",
         "show": "bob's burgers",
-        "cardImage": ""
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Bob/.webp"
     },
     {
         "title": "Bobby",
         "type": "character",
         "rarity": "legendary",
         "show": "king of the hill",
-        "cardImage": ""
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Booby.webp"
     },
     {
         "title": "Boomhauer",
         "type": "character",
         "rarity": "epic",
         "show": "king of the hill",
-        "cardImage": ""
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Boomhauer.webp"
     },
     {
         "title": "Brian",
         "type": "character",
         "rarity": "epic",
         "show": "family guy",
-        "cardImage": ""
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Brian.webp"
     },
     {
         "title": "Bullock",
         "type": "character",
         "rarity": "common",
         "show": "american dad!",
-        "cardImage": ""
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Bullock.webp"
+    },
+    {
+        "title": "Chris",
+        "type": "character",
+        "rarity": "common",
+        "show": "family guy",
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Chris-2.webp"
+    },
+    {
+        "title": "Chris Griffin",
+        "type": "character",
+        "rarity": "legendary",
+        "show": "family guy",
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Chris-Griffin.webp"
     }
 ]
