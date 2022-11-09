@@ -68,5 +68,46 @@
         "rarity": "legendary",
         "show": "family guy",
         "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Chris-Griffin.webp"
+    },
+    {
+        "title": "Dale",
+        "type": "character",
+        "rarity": "common",
+        "show": "king of the hill",
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Dale.webp"
+    },
+    {
+        "title": "Dr. Amy Wong",
+        "type": "character",
+        "rarity": "legendary",
+        "show": "futurama",
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Legendary_amy.webp"
+    },
+    {
+        "title": "Dr. Zoidberg",
+        "type": "character",
+        "rarity": "common",
+        "show": "futurama",
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Dr-Zoidberg.webp"
+    },
+    {
+        "title": "Francine",
+        "type": "character",
+        "rarity": "epic",
+        "show": "american dad!",
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Francine.webp"
+    },
+    {
+        "title": "Fry",
+        "type": "character",
+        "rarity": "common",
+        "show": "futurama",
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Fry.webp"
+    },{
+        "title": "Gene",
+        "type": "character",
+        "rarity": "rare",
+        "show": "bob's burgers",
+        "cardImage": "https://brunodorea.github.io/AnimatedThrowdown/images/character_cards/Gene.webp"
     }
 ]
